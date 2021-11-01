@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "myproject"
+git status
+git remote add origin <link from github.com>
+git push origin master
